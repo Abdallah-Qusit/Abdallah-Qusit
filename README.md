@@ -78,12 +78,17 @@
 
 ###
 
-<h4 align="left">🔥 GitHub Streak</h4>
+<h4 align="left">🔥 Codeforces</h4>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdallah-Qusit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=highcontrast&hide_border=false&order=2" height="180" alt="languages graph"  />
+  <a href="https://codeforces.com/profile/Omega-">
+    <img src="https://codeforces-stats-vlx.vercel.app/api/card?username=Omega-&theme=dark" />
+  </a>
+  <a href="https://codeforces.com/profile/Omega-">
+    <img src="https://codeforces-stats-vlx.vercel.app/api/graph?username=Omega-&theme=dark" />
+  </a>
 </div>
 
 ###
