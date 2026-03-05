@@ -84,10 +84,10 @@
 
 <div align="center">
   <a href="https://codeforces.com/profile/Omega-">
-    <img src="https://codeforces-stats-vlx.vercel.app/api/card?username=Omega-&theme=dark" />
+    <img src="https://codeforces-stats-vlx.vercel.app/api/card?username=Omega-&theme=transparent" />
   </a>
   <a href="https://codeforces.com/profile/Omega-">
-    <img src="https://codeforces-stats-vlx.vercel.app/api/graph?username=Omega-&theme=dark" />
+    <img src="https://codeforces-stats-vlx.vercel.app/api/graph?username=Omega-&theme=transparent" />
   </a>
 </div>
 
